@@ -1,0 +1,1 @@
+Esta página fue creada con el fin de ser una entrega para la parte final de la actividad subida al classroom. Tiene secciones de contacto y un poco de información acerca del autor. Fue realizada para demostrar los conocimientos aprendidos con la guía.
